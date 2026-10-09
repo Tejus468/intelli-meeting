@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+neo4j
+psycopg[binary]
+pgvector
+pydantic-settings
+pymupdf
+python-docx
+python-multipart
+httpx
+sentence-transformers
